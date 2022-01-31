@@ -1,0 +1,20 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "translate": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "translate-google-api": "^1.0.4",
+    "yargs": "^17.3.1"
+  }
+}
