@@ -2,6 +2,6 @@
 
 ## summary
 
-+ [Translate app](./translator)
-
++ [Translator app](./translator)
++ [Downloader app](./downloader)
 
