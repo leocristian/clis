@@ -1,6 +1,6 @@
 # Some CLI apps in nodejs
 
-## summary
+## Summary
 
 + [Translator app](./translator)
 + [Downloader app](./downloader)
