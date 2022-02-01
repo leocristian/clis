@@ -12,6 +12,4 @@ An cli app for download audios from youtube urls
 
 ### Params
 
-- -o = Code of the language in which the text will be translated, ex: pt (portuguese)
-- -t = Input text to be traslated (text must be in quotes)
-
+- -u = url from some youtube video
